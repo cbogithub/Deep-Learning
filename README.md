@@ -1,1 +1,1 @@
-Copyright (c) 2016 All Rights Reserved.
+Codebase for my own experiments at MIT Computer Vision Lab
